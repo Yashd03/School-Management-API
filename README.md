@@ -1,7 +1,4 @@
-Example:
 
-markdown
-Copy code
 # School Management API
 
 ## Overview
@@ -26,9 +23,8 @@ This Node.js and Express.js API allows users to add new schools and retrieve a l
    DB_PORT=3306
 
 4.Run the Server:
-    ```bash
-    
-        npm start
+
+    npm start
 
 
 The server will run on http://localhost:3000.
